@@ -2,6 +2,7 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
+    'gatsby-plugin-remove-serviceworker',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
