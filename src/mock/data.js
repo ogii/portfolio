@@ -29,7 +29,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'assionplus.png',
+    img: 'assionplus.jpg',
     title: 'AssionPlus',
     info: 'With AssionPlus, return to top and modal popups can be created with ease',
     info2: '',

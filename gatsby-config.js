@@ -27,7 +27,7 @@ module.exports = {
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#c1c9c9`,
-        display: `standalone`,
+        display: `standalone`, s
       },
     },
   ],
