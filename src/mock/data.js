@@ -18,17 +18,18 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile1.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://pdfhost.io/v/4BerRiPWK_resume_amcpdf.pdf', // if no resume, the button will not show up
+  paragraphOne: 'I am a Web Developer based in Tokyo, Japan',
+  paragraphTwo: 'I have several years of experience and have worked on several projects',
+  paragraphThree: ' ',
+  resume: 'https://pdfhost.io/v/4BerRiPWK_resume_amcpdf.pdf',
+  blog: 'https://aaronmichaelclark.com/blog'
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'assionplus.png',
     title: 'AssionPlus',
     info: 'With AssionPlus, return to top and modal popups can be created with ease',
     info2: '',
