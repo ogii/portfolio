@@ -33,7 +33,10 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-128518967-1'
+        trackingId: 'UA-128518967-1',
+        head: true,
+        defer: false,
+        cookieDomain: "aaronmichaelclark.com",
       }
     }
   ],
