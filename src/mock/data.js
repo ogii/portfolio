@@ -29,12 +29,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'assionplus.jpg',
-    title: 'AssionPlus',
-    info: 'With AssionPlus, return to top and modal popups can be created with ease',
-    info2: '',
-    url: 'http://160.16.126.75/',
+    img: 'easy_popup_maker.jpg',
+    title: 'Easy Popup Maker',
+    info: 'With Easy Popup Maker, return to top and modal popups can be created with ease',
+    info2: 'Developed with React, Material UI, MongoDB, Node.js, and Nginx',
+    url: 'http://easy-popup-maker.com/',
     repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'portfolio_page.jpg',
+    title: 'My Portfolio',
+    info: 'My personal portfolio website (this page)',
+    info2: 'Created with Gatsby',
+    url: 'http://aaronmichaelclark.com/',
+    repo: 'https://github.com/ogii/portfolio', // if no repo, the button will not show up
   },
 ];
 
