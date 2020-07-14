@@ -45,6 +45,14 @@ export const projectsData = [
     url: 'http://aaronmichaelclark.com/',
     repo: 'https://github.com/ogii/portfolio', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'techcede.jpg',
+    title: 'Techcede',
+    info: 'A simple design created for a fictional company called Techcede',
+    info2: 'Created with HTML, CSS, jQuery, and Bootstrap 4',
+    repo: 'https://github.com/ogii/techcede', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
