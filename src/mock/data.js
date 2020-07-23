@@ -32,7 +32,7 @@ export const projectsData = [
     img: 'easy_popup_maker.jpg',
     title: 'Easy Popup Maker',
     info: 'With Easy Popup Maker, return to top and modal popups can be created with ease',
-    info2: 'Developed with React, Material UI, MongoDB, Node.js, and Nginx',
+    info2: 'Developed with React, Material UI, Redux, MongoDB, Node.js, and Nginx',
     url: 'http://easy-popup-maker.com/',
     repo: '', // if no repo, the button will not show up
   },
