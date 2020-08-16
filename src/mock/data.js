@@ -51,6 +51,7 @@ export const projectsData = [
     title: 'Techcede',
     info: 'A simple design created for a fictional company called Techcede',
     info2: 'Created with HTML, CSS, jQuery, and Bootstrap 4',
+    url: 'https://ogii.github.io/techcede/',
     repo: 'https://github.com/ogii/techcede', // if no repo, the button will not show up
   },
 ];
